@@ -6,14 +6,14 @@ STOMP，Streaming Text Orientated Message Protocol，是流文本定向消息协
 
 STOMP协议工作于TCP协议之上，使用了下列命令：
 
-SEND 发送
-SUBSCRIBE 订阅
-UNSUBSCRIBE 退订
-BEGIN 开始
-COMMIT 提交
-ABORT 取消
-ACK 确认
-DISCONNECT 断开
+SEND 发送  
+SUBSCRIBE 订阅  
+UNSUBSCRIBE 退订  
+BEGIN 开始  
+COMMIT 提交  
+ABORT 取消  
+ACK 确认  
+DISCONNECT 断开  
 
   
 * 发送消息
